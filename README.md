@@ -32,7 +32,7 @@ Welcome to NovaFix, a modern web application for booking fast, on-site smartphon
 ## Acknowledgements
 - **ChatGPT**: Assisted in designing the project structure, troubleshooting code, and optimizing performance and accessibility features.
 - **GitHub**: Provided version control and repository hosting, enabling collaboration and deployment tracking.
-- **Netlify**: Facilitated easy deployment and hosting, with continuous deployment from GitHub to a live URL (e.g., https://novafix.netlify.app).
+- **Netlify**: Facilitated easy deployment and hosting, with continuous deployment from GitHub to a live URL.
 
 ## Installation
 
